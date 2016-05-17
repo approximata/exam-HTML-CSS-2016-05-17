@@ -4,7 +4,7 @@ main {
   background-color: #cccccc;
   padding: 20px;
   display: flex;
-  font-family: Arial, serif;
+  font: 14px Arial, serif;
 }
 
 aside {
@@ -12,9 +12,19 @@ aside {
   border-right: 1px solid #606060;
 }
 
+h1{
+  margin: 0;
+  font-size: 1.8em;
+}
+
 .content {
   padding-left: 20px;
   position: relative;
+  text-align: left;
+}
+
+td {
+    padding-left: 55px;
 }
 
 .pencil {
