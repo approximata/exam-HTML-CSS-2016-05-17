@@ -17,6 +17,10 @@ h1{
   font-size: 1.8em;
 }
 
+p{
+  margin: 10px 0;
+}
+
 .content {
   padding-left: 20px;
   position: relative;
